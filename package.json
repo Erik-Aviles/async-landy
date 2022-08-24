@@ -1,0 +1,11 @@
+{
+  "name": "async-landy",
+  "version": "1.0.0",
+  "description": "Pagina de practica asyn-await",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erika Aviles <erik8822@hotmail.com>",
+  "license": "MIT"
+}
